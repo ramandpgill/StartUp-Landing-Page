@@ -1,0 +1,225 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.custom-primary-text{
+    color: #1E90FF;
+}
+.btn-cs-primary{
+    background-color: #356DFFF3;
+}
+.features-title{
+    background-color: #F6BF76;
+}
+.btn-cs-secondary{
+    background-color: #0B0D39;
+}
+.hub-know{
+    color: #EF8E0E;
+}
+
+/* logo */
+.logo img{
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+}
+.logo h3 span{
+    color: #356DFFF3;
+}
+.logo .btn-top button{
+    padding-left: 20px;
+}  
+
+/* template Startup */
+.temp{
+    padding-left: 100px;
+}
+.temp h1{
+    font-size: 65px;
+    padding-top: 150px;
+    font-weight: bold;
+}
+.temp img{
+    padding-right: 20px;
+    width: 800px;
+   
+}
+.temp h1 span{
+    color: #1E90FF;
+}
+.temp p{
+    font-size: 21px;
+    color: rgb(182, 175, 175);
+}
+.temp .button .btn{
+ 
+    border-start-end-radius :50px;
+  border-top-left-radius: 50px;
+  border-bottom-right-radius:50px;
+  margin-left: 15px;
+  
+
+} 
+
+/* Dream template */
+.dream{
+    margin-top: 150px;
+    
+}
+.dream h4 {
+    color: #EF8E0E;
+    width: 150px;
+    border-radius: 50px;
+    padding: 10px 10px;
+    margin-left:550px;
+    font-size: 15px;
+}
+.dream .features-card img{
+    width:300px;
+    object-fit: cover;
+}
+.dream .features-card h3{
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 20px;
+}
+.dream .features-card p{
+    font-size: 15px;
+    padding-top: 10px;
+    color: rgb(165, 163, 163);
+}
+
+/* Design */
+.design{
+    margin-top: 200px;
+}
+.design h2{
+    font-size: 70px;
+    font-weight: bold;
+}
+.design p{
+    font-size: 25px;
+    text-align: start;
+    color: rgb(165, 163, 163);
+}
+.design button{
+   margin-top: 20px;
+   border-start-end-radius :50px;
+  border-top-left-radius: 50px;
+  border-bottom-right-radius:50px;
+  padding: 10px 30px;
+  border: none;
+}
+.design img{
+    width: 800px;
+    margin-top: -60px;
+}
+/* Knowledge Hub */
+.blog{
+    margin-top: 200px;
+}
+.blog h5{
+    color: #EF8E0E;
+    width: 70px;
+    border-radius: 50px;
+    padding: 10px 10px;
+    margin-left:550px;
+    font-size: 15px;
+    font-weight: bold;
+}
+.blog h1{
+    font-size: 50px;
+    font-weight: bold;
+    padding-top: 10px;
+}
+.blog h1 span{
+    color: #1E90FF;
+}
+
+
+.blog .card .card-badge h4{
+    margin-top: -220px;
+   padding-top: 10px;
+   padding-right: 10px;
+    margin-left: 30px;
+    background-color: white;
+    border-radius: 50px;
+    width: 100px;
+    text-align: center;
+   padding-bottom: 10px;
+   padding-left: 10px;
+   position: relative;
+   top: 20px;
+   font-weight: bold;
+   font-size: 11px;
+}
+
+
+.blog .card h3{
+  font-size: 20px;
+  font-weight: bold;
+}
+.blog .view button{
+    border-start-end-radius :50px;
+  border-top-left-radius: 50px;
+  border-bottom-right-radius:50px;
+  padding: 10px 30px;
+    border: 2px solid rgb(113, 112, 112);
+    margin-top: 50px;
+    
+}
+
+/* fire up */
+.fire{
+    margin-top: 200px;
+}
+.fire img{
+    transform: rotate(70deg);
+    width: 800px;
+    margin-top: -150px;
+    margin-left: 20px;
+}
+.fire .up h1{
+    font-size: 40px;
+   padding-top: 50px;
+}
+.fire .up button{
+    border-start-end-radius :50px;
+  border-top-left-radius: 50px;
+  border-bottom-right-radius:50px;
+  padding: 10px 30px;
+  border: none;
+}
+/* footer */
+.footer-left h5{
+    color: #EF8E0E;
+    width: 100px;
+    border-radius: 50px;
+    padding: 10px 10px;
+    text-align: center;
+    font-size: 10px;
+    font-weight: bold;
+ 
+    
+}
+.footer-left h2{
+    font-size: 40px;
+    font-weight: 500;
+    margin-top: -20px;
+}
+.footer-left h5 i{
+    margin-top: -70px;
+    transform: rotate(40deg);
+    border-radius: 50px;
+}
+.links .home ul{
+    columns: 3;
+    margin-top: 20px;
+    
+}
+.links .footer-links li{
+   padding-top: 15px;
+   font-size: 15px;
+   font-weight:400;
+}
